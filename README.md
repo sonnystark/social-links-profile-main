@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/sonnystark/social-links-profile-main](https://github.com/sonnystark/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://profile-card-socials.netlify.app/](https://profile-card-socials.netlify.app/)
 
 ## My process
 
